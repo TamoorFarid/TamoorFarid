@@ -27,14 +27,14 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamza2070&show_icons=true&locale=en&layout=compact" alt="hamza2070" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taimoor2070&show_icons=true&locale=en&layout=compact" alt="taimoor2070" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamza2070&show_icons=true&locale=en" alt="hamza2070" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taimoor2070&show_icons=true&locale=en" alt="taimoor2070" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamza2070&" alt="hamza2070" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taimoor2070&" alt="taimoor2070" /></p>
 
 <!---
-hamza2070/hamza2070 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+taimoor2070/taimoor2070 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Taimoor Farid</h1>
@@ -66,13 +66,13 @@ You can click the Preview link to take a look at your changes.
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamza2070&show_icons=true&locale=en&layout=compact" alt="hamza2070" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taimoor2070&show_icons=true&locale=en&layout=compact" alt="taimoor2070" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamza2070&show_icons=true&locale=en" alt="hamza2070" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taimoor2070&show_icons=true&locale=en" alt="taimoor2070" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamza2070&" alt="hamza2070" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taimoor2070&" alt="taimoor2070" /></p>
 
 <!---
-hamza2070/hamza2070 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+taimoor2070/taimoor2070 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
